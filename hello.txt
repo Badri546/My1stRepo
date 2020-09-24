@@ -1,3 +1,0 @@
-hai this is from hello.txt 	`
-this is an 2nd lin
-this is 3rd line from hello.txt
